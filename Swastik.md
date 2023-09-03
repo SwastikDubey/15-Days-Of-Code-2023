@@ -4,6 +4,7 @@
 Lectures watched:-
     1.https://youtu.be/R5BEcvTVZj0?si=MHa0Y9jfQ8BIiW6E
     2.https://youtu.be/udExMlaR_nA?si=Oogquez2U5onYeTj
+
 Question solved:-
     1.Spiral Traversal of Array : https://pastebin.com/AHDeCECu
 
@@ -19,6 +20,7 @@ lectures watched:-
 
 lectures watched:-
     1.https://youtu.be/xiXMmOSDX3U?si=6jKjmCUWHSyj-f1U
+
 Questions solved:-
     1.https://codeforces.com/contest/4/submission/221218758
 
@@ -28,6 +30,7 @@ Questions solved:-
 lectures watched:-
     1.https://youtu.be/gUrfXZ0hqoA?si=w-jEWS2eAvNzkq0P
     2.https://youtu.be/okLflHtlCuk?si=vNAd9Zm1ksoLlOob
+
 Questons solved:-
     1.https://codeforces.com/contest/71/submission/221479926
     2.https://codeforces.com/contest/1/submission/221485942
@@ -39,6 +42,7 @@ Questons solved:-
 lectures watched:-
     1.https://youtu.be/7mx2BasNK0w?si=jPonZ4hFQaUefv9c
     2.https://youtu.be/hoT_D60UzAU?si=mUnyoRZem8wMFPmg
+
 Questions solved:-
     1.https://codeforces.com/contest/118/submission/221489371
     2.https://codeforces.com/contest/263/submission/221491237
@@ -55,4 +59,15 @@ Questions solved:-
     13.https://codeforces.com/contest/313/submission/221555002
     14.https://codeforces.com/contest/732/submission/221557519
     15.https://codeforces.com/contest/514/submission/221567705
+
+
+###Day 6
+03/09/23
+
+Questions solved:-
+    1.https://codeforces.com/contest/151/submission/221663381
+    2.https://codeforces.com/contest/723/submission/221665654
+    3.https://codeforces.com/contest/1352/submission/221672061
+    4.https://codeforces.com/contest/510/submission/221726531
+    5.https://codeforces.com/contest/1866/submission/221731225
     
