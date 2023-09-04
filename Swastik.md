@@ -61,7 +61,7 @@ Questions solved:-
     15.https://codeforces.com/contest/514/submission/221567705
 
 
-###Day 6
+### Day 6
 03/09/23
 
 Questions solved:-
@@ -71,7 +71,7 @@ Questions solved:-
     4.https://codeforces.com/contest/510/submission/221726531
     5.https://codeforces.com/contest/1866/submission/221731225
 
-###Day 7
+### Day 7
 04/09/23
 
 Question solved:-
