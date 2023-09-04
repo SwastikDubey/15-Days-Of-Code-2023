@@ -70,4 +70,12 @@ Questions solved:-
     3.https://codeforces.com/contest/1352/submission/221672061
     4.https://codeforces.com/contest/510/submission/221726531
     5.https://codeforces.com/contest/1866/submission/221731225
-    
+
+###Day 7
+04/09/23
+Question solved:-
+    1.https://codeforces.com/contest/785/submission/221827852
+    2.https://codeforces.com/contest/144/submission/221835572
+    3.https://codeforces.com/contest/1030/submission/221846913
+    4.https://codeforces.com/contest/136/submission/221849467
+    5.https://codeforces.com/contest/110/submission/221852510
