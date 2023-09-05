@@ -80,3 +80,15 @@ Question solved:-
     3.https://codeforces.com/contest/1030/submission/221846913
     4.https://codeforces.com/contest/136/submission/221849467
     5.https://codeforces.com/contest/110/submission/221852510
+
+
+### Day 8
+05/09/23
+
+Question solved:-
+    1.https://codeforces.com/contest/116/submission/221974962
+    2.https://codeforces.com/contest/977/submission/221975711
+    3.https://codeforces.com/contest/546/submission/221976622
+    4.https://codeforces.com/contest/791/submission/221977617
+    5.https://codeforces.com/contest/281/submission/221978480
+    6.https://codeforces.com/contest/339/submission/221980485
