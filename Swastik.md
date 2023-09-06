@@ -92,3 +92,14 @@ Question solved:-
     4.https://codeforces.com/contest/791/submission/221977617
     5.https://codeforces.com/contest/281/submission/221978480
     6.https://codeforces.com/contest/339/submission/221980485
+
+
+### Day 9
+06/09/23
+
+Question solved:-
+    1.https://codeforces.com/contest/1368/submission/222077606
+    2.https://codeforces.com/contest/702/submission/222081395
+    3.https://codeforces.com/contest/1097/submission/222083293
+    4.https://codeforces.com/contest/492/submission/222098483
+    5.https://codeforces.com/contest/1433/submission/222099896
