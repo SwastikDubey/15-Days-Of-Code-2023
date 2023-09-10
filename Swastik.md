@@ -103,3 +103,34 @@ Question solved:-
     3.https://codeforces.com/contest/1097/submission/222083293
     4.https://codeforces.com/contest/492/submission/222098483
     5.https://codeforces.com/contest/1433/submission/222099896
+
+
+### Day 10
+07/09/23
+
+Participated in Div3 and solved:-
+    1.https://codeforces.com/contest/1872/submission/222235906
+    2.https://codeforces.com/contest/1872/submission/222339398
+
+
+### Day 11
+08/09/23
+
+Question solved:-
+    1.https://codeforces.com/contest/1303/submission/222495885
+    2.https://codeforces.com/contest/1095/submission/222497832
+    3.https://codeforces.com/contest/1391/submission/222500716
+
+
+### Day 12
+09/09/23
+
+Question solved:-
+    1.https://codeforces.com/contest/1300/submission/222502415
+    2.https://codeforces.com/contest/1430/submission/222635086
+
+    
+### Day 13
+
+Participated in Div2 and solved:-
+    1.Problem C : https://codeforces.com/contest/1869/submission/222795014
